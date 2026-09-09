@@ -1,0 +1,10 @@
+# R
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
