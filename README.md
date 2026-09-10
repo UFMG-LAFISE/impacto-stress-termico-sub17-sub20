@@ -62,6 +62,8 @@ posição = ZAG.
 
 **Relatório completo de cada regressão** (figuras, tabelas, diagnósticos e
 decisões): [`modelo-comparacao-sub17-sub20/relatorios/`](modelo-comparacao-sub17-sub20/relatorios/).
+A **descrição metodológica** em linguagem científica está em
+[`relatorios/METODOLOGIA.md`](modelo-comparacao-sub17-sub20/relatorios/METODOLOGIA.md).
 
 ---
 

@@ -315,6 +315,7 @@ idx <- c(
   "# Relatórios dos modelos — Sub-17 vs Sub-20", "",
   "Um arquivo por regressão. Cada um traz especificação, decisões, coeficientes,",
   "figuras (diagnóstico DHARMa e efeito do IBUTG), pressupostos, ajuste e conclusão.", "",
+  "> Descrição metodológica completa (linguagem científica): [METODOLOGIA.md](METODOLOGIA.md)", "",
   "| # | Regressão | Distribuição | Arquivo |",
   "|---|-----------|--------------|---------|",
   "| 1 | Distância total / min | Gaussiana (LMM) | [01_distancia-total-min.md](01_distancia-total-min.md) |",
